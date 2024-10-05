@@ -1,2 +1,2 @@
 # receipt-reader
-An automated process to autofill tax return spreadsheets
+Provided with images of receipts, the program recognises the detail relevant to a tax return spreadsheet and populates it with the appropriate information.
